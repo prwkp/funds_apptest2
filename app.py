@@ -173,7 +173,7 @@ div_categorical = html.Div(
 
 # App layout
 app.layout = html.Div([
-          html.H1('Predict diamond prices'),
+          html.H1('Predict diamond prices eiei'),
           html.H2('Enter the diamond characteristics to get the predicted price'),
           html.Div(
               children=[div_numerical, div_dimensions, div_categorical]
